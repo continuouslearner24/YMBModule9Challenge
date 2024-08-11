@@ -1,0 +1,27 @@
+{
+  "name": "ymbmodule9challenge",
+  "version": "1.0.0",
+  "description": "ReadMe Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/continuouslearner24/YMBModule9Challenge.git"
+  },
+  "keywords": [
+    "ReadMe",
+    "Generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/continuouslearner24/YMBModule9Challenge/issues"
+  },
+  "homepage": "https://github.com/continuouslearner24/YMBModule9Challenge#readme",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "markdown-utils": "^1.0.0"
+  }
+}
